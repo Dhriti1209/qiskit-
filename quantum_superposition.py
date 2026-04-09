@@ -10,7 +10,7 @@ qc.h(0)
 
 qc.measure(0, 0)
 
-print("Hello Quantum World Circuit:")
+print("Quantum Superposition Circuit:")
 print(qc.draw(output='text', fold=-1))
 
 simulator = AerSimulator()
